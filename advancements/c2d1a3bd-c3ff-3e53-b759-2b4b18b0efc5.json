@@ -453,7 +453,8 @@
       "potato": "2021-02-13 19:10:56 +0000",
       "bread": "2021-02-14 11:50:05 +0000",
       "rotten_flesh": "2021-02-13 16:17:05 +0000",
-      "cooked_chicken": "2021-02-13 16:05:04 +0000"
+      "cooked_chicken": "2021-02-13 16:05:04 +0000",
+      "carrot": "2021-02-15 16:21:54 +0000"
     },
     "done": false
   },
@@ -675,6 +676,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2021-02-15 16:11:04 +0000",
       "minecraft:chicken": "2021-02-14 14:57:20 +0000"
     },
     "done": false
