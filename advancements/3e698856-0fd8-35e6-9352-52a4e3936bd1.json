@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2021-02-14 19:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2021-02-13 15:33:32 +0000"
@@ -419,7 +425,8 @@
       "cooked_mutton": "2021-02-13 18:27:43 +0000",
       "cooked_beef": "2021-02-13 16:17:03 +0000",
       "pumpkin_pie": "2021-02-13 19:22:55 +0000",
-      "rotten_flesh": "2021-02-14 09:02:37 +0000"
+      "rotten_flesh": "2021-02-14 09:02:37 +0000",
+      "cooked_chicken": "2021-02-14 18:53:26 +0000"
     },
     "done": false
   },
@@ -615,15 +622,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2021-02-14 12:11:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2021-02-14 10:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-02-14 12:11:39 +0000"
     },
     "done": true
   },
@@ -906,6 +913,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2021-02-13 15:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-02-14 19:19:12 +0000"
     },
     "done": true
   },
