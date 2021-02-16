@@ -1133,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-15 16:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2021-02-13 17:30:02 +0000"
@@ -1415,6 +1421,7 @@
     "criteria": {
       "cooked_porkchop": "2021-02-13 18:14:20 +0000",
       "cooked_mutton": "2021-02-13 18:27:43 +0000",
+      "sweet_berries": "2021-02-15 16:34:51 +0000",
       "cooked_beef": "2021-02-13 16:17:03 +0000",
       "pumpkin_pie": "2021-02-13 19:22:55 +0000",
       "golden_apple": "2021-02-15 16:03:52 +0000",
@@ -2141,6 +2148,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-02-13 18:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-02-15 17:09:47 +0000"
     },
     "done": true
   },
